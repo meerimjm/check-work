@@ -97,15 +97,16 @@ section{
 	color: #BE963F;
 }
 .btn{
-	background: linear-gradient(93.7deg, #F3C87A -1.69%, #F3EECA 37.58%, #B39556 77.08%, #EED489 109.84%);
-	box-shadow: 0px 4px 0px #836A36;
-	border-radius: 10px;
+	background: #283337;
+
+	
+	border-radius: 50px;
 	font-weight: 800;
 	font-size: 16px;
 	line-height: 19px;
 	text-align: center;
 	text-transform: uppercase;
-	color: #34280E;
+	color:#fff;
 	height: 85px;
 	display: flex;
 	flex-wrap: wrap;
@@ -130,3 +131,4 @@ section{
 	justify-content: space-between;
 	text-align: center;
 }
+.
