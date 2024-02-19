@@ -139,3 +139,79 @@ top: 25px;
 left: 615px;
 
 }
+.product_tit{
+	width: 326px;
+height: 60px;
+top: -6px;
+font-family: Times New Roman;
+font-size: 60px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 1px;
+text-align: left;
+}
+.product_txt{
+	width: 363px;
+height: 104px;
+top: 22px;
+left: 3px;
+font-family: Arial;
+font-size: 17px;
+font-weight: 700;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+font-family: Arial;
+font-size: 17px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #40494D;
+}
+.product_img{
+	width: 90px;
+height: 90px;
+top: 80px;
+left: 80px;
+}
+.product_tit{
+	width: 203px;
+height: 68px;
+top: 197px;
+left: 80px;
+font-family: Arial;
+font-size: 32px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom:  30px;
+
+}
+.product_txt{
+	width: 391px;
+height: 78px;
+top: 316px;
+left: 80px;
+font-family: Arial;
+font-size: 18px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 40px;
+}
+.product_txt_smoll{
+	width: 113px;
+height: 36px;
+top: 432px;
+left: 334px;
+font-family: Arial;
+font-size: 18px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: right;
+color:#283337
+}
