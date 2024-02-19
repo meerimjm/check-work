@@ -299,4 +299,25 @@ height: 14px;
 top: 165px;
 margin-bottom: 20px;
 }
+.for_img{
+	width: 173px;
+height: 100px;
+top: 25px;
+left: 184px;
 
+}
+.for_tit{
+	width: 240px;
+height: 60px;
+top: -6px;
+left: 555px;
+font-family: Times New Roman;
+font-size: 58px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 1px;
+text-align: center;
+color:#283337;
+margin: 0 auto;
+margin-bottom: 90px;
+}
